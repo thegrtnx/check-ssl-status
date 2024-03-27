@@ -1,0 +1,35 @@
+{
+	"name": "check-ssl-status",
+	"version": "1.2.1",
+	"description": "Check if a site has SSL enabled or not",
+	"main": "dist/index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"build": "tsc"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/thegrtnx/nextjs-countdown-timer"
+	},
+	"bugs": {
+		"url": "https://github.com/thegrtnx/nextjs-countdown-timer/issues"
+	},
+	"keywords": [
+		"countdown",
+		"countdown-timer",
+		"react",
+		"nextjs",
+		"timer"
+	],
+	"author": "thegrtnx",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^18.2.57",
+		"@types/react-dom": "^18.2.19",
+		"typescript": "^5.3.3"
+	},
+	"peerDependencies": {
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0"
+	}
+}
