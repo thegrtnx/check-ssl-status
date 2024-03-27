@@ -9,17 +9,17 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/thegrtnx/nextjs-countdown-timer"
+		"url": "git+https://github.com/thegrtnx/check-ssl-status"
 	},
 	"bugs": {
-		"url": "https://github.com/thegrtnx/nextjs-countdown-timer/issues"
+		"url": "https://github.com/thegrtnx/check-ssl-status/issues"
 	},
 	"keywords": [
-		"countdown",
-		"countdown-timer",
+		"SSL",
+		"URL",
 		"react",
-		"nextjs",
-		"timer"
+		"domain",
+		"nextjs"
 	],
 	"author": "thegrtnx",
 	"license": "MIT",
